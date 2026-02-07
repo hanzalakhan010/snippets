@@ -29,6 +29,6 @@ Feel free to add more snippets by creating new folders with descriptive names an
 3. Include code examples and usage patterns
 4. Update this main README.md to list the new snippet
 
-## License
 
-MIT
+## License
+This project is licensed under the Apache License 2.0.
